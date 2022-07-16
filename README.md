@@ -1,2 +1,1 @@
-# Credit-Card-Fraud-Detection-using-Machine-Learning
-predicting whether a new transaction is fraudulent or not
+Using a dataset that cotains credit card transaction information of different European card holders, ML models such as Logistic Regression, Decision Tree, Random Forest, SVM, KNN, CNN and ANN are built. Selected three final algorithms (KNN, Logistic Regression and CNN) with high accuracy amd low overfiiting to predict whether a new transaction is fraudulent or not.
